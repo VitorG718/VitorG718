@@ -12,4 +12,4 @@ Gosto muito de programação e de tecnologia, desde projetos que envolvam eletr�
  <br/> :mag_right: &nbsp; Buscando colaborar com projetos em Back-end usando Java ou Node.js
  <br/> :blush: &nbsp; Posso te ajudar com microcontroladores da STM em especial o STM32L0, os microcontroladores PIC18 e Linguagem C
  <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, mangás, animes, jogos: Terraria é meu favorito, música e séries na Netflix
- <br/> :email: &nbsp; Entre em contato comigo: ![Custom badge](https://img.shields.io/endpoint?color=blue&label=VitorSouza&logo=LinkedIn&logoColor=White&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvitorgoliveira)
+ <br/> :email: &nbsp; Entre em contato comigo: ![Twitter URL](https://img.shields.io/twitter/url?color=Blue&label=Vitor%20Souza&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvitorgoliveira%2F)
