@@ -2,9 +2,7 @@
 
 # Vitor Souza
 
-## Olá pessoal 👋
-Gosto muito de programação e de tecnologia, principalmente projetos relacionados a Sistemas embarcados e Aplicações Web.
-<br/>Sou um estudante de Ciência da Computação, competidor da Seletiva WorldSkills 2021 no Senai-DF na ocupação de eletrônica, estagiário de TI, Desenvolvedor de Sistemas Embarcados nos tempos livres e estudante apaixonado por Desenvolvimento Web.
+Um apaixonado por programação e tecnologia, atualmente estou focando bastante no desenvolvimento iOS e nas horas vagas estudo um sobre sobre desenvolvimento web. Faço o curso de Bacharelado em Ciência da Computação, sou competidor da Seletiva WorldSkills do Senai-DF na ocupação de eletrônica, onde desenvolvo a habilidade de desenvolvimento de sistemas embarcados.
 
  :computer: &nbsp; Já trabalhei como freelancer no desenvolvimento de sistemas embarcados e hoje estou estagiando, tendo como atividades a manunteção de uma aplicação em Java
  <br/> :book: &nbsp; Atualmente estou estudando desenvolvimento web com o objetivo de ser um excelente Backend Developer
