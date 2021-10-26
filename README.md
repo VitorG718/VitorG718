@@ -1,15 +1,35 @@
-<img width="auto" src="https://github.com/VitorG718/VitorG718/blob/master/banner.jpg">
+# Olá! Eu sou o Vitor Souza
 
-# Vitor Souza
+Um apaixonado por programação e tecnologia, atualmente estou focando bastante no desenvolvimento iOS e nas horas vagas estudo um sobre sobre desenvolvimento web. Faço o curso de Bacharelado em Ciência da Computação e sou competidor da Seletiva WorldSkills do Senai-DF na ocupação de eletrônica, onde desenvolvo a habilidade de desenvolvimento de sistemas embarcados.
 
-Um apaixonado por programação e tecnologia, atualmente estou focando bastante no desenvolvimento iOS e nas horas vagas estudo um sobre sobre desenvolvimento web. Faço o curso de Bacharelado em Ciência da Computação, sou competidor da Seletiva WorldSkills do Senai-DF na ocupação de eletrônica, onde desenvolvo a habilidade de desenvolvimento de sistemas embarcados.
+## Ferramentas e Tecnologias
 
- :computer: &nbsp; Já trabalhei como freelancer no desenvolvimento de sistemas embarcados e hoje estou estagiando, tendo como atividades a manunteção de uma aplicação em Java
- <br/> :book: &nbsp; Atualmente estou estudando desenvolvimento web com o objetivo de ser um excelente Backend Developer
- <br/> :blush: &nbsp; Tenho uma grande vivência com Linguagem C por ter sido a primeira linguagem de programação que aprendi, assim como microntroladores e desenvolvimento de sistemas embarcados, qualquer dúvida estou à disposição
- <br/> 🚀 &nbsp; Tenho conhecimentos e continuo no aprendizado das seguintes tecnologias e ferramentas: Java, JavaScript, CSS, HTML, SQL, PostgreSQL, MySQL, Git, VS Code, Intellij IDEA, Eclipse IDE, Linguagem C, uVision 5, microcontroladores STM32 e PIC
- <br/> :memo: &nbsp; Estou começando a ver um pouco e tenho interresse de me aprofundar nas seguintes tecnologias: Spring Boot, Quarkus, JPA, Hibernate, Maven, Gradle, Node.js, Express, Angular, Docker, Kubernetes, MongoDB, TypeScript e AWS
- <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, mangás, animes, jogos: Terraria é meu favorito, música e séries na Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Vitor_Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorgoliveira/)](https://www.linkedin.com/in/vitorgoliveira/)
- [![Gmail Badge](https://img.shields.io/badge/-vitorx1280@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorx1280@gmail.com)](mailto:vitorx1280@gmail.com)
-<br/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="PostgreSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+</div>
+  
+ ## Contato
+ 
+ <a href = "mailto:vitorx1280@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/vitorgoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+## Overview
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorG718&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorG718&layout=compact&langs_count=6&theme=dracula"/> -->
+</div>
