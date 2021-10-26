@@ -1,6 +1,6 @@
 # Olá! Eu sou o Vitor Souza
 
-Um apaixonado por programação e tecnologia, atualmente estou focando bastante no desenvolvimento iOS e nas horas vagas estudo um sobre sobre desenvolvimento web. Faço o curso de Bacharelado em Ciência da Computação e sou competidor da Seletiva WorldSkills do Senai-DF na ocupação de eletrônica, onde desenvolvo a habilidade de desenvolvimento de sistemas embarcados.
+Um apaixonado por programação e tecnologia, atualmente estou focando bastante no desenvolvimento iOS e nas horas vagas estudo um sobre sobre desenvolvimento web. Faço o curso de Bacharelado em Ciência da Computação e sou competidor da Seletiva WorldSkills do Senai-DF na ocupação de eletrônica, onde desenvolvo principalmente a habilidade de desenvolvimento de sistemas embarcados.
 
 ## Ferramentas e Tecnologias
 
